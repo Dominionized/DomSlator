@@ -44,7 +44,7 @@ public class Client {
 
 			do {
 				// Get message to translate from the user
-				System.out.println("Entrez un message à traduire :");
+				System.out.println("Enter a message to translate :");
 				messageToTranslate = userInputScanner.nextLine();
 
 				// Send the message to the server to translate
